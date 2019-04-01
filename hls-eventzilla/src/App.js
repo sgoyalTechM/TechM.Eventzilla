@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-// naveen checkin
+// naveen checkin to develop from vscode
 class App extends Component {
   render() {
     return (
